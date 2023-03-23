@@ -964,6 +964,14 @@ section .container {
   color: #18d26e;
 }
 
+. contact .php-email-form .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
 .contact .php-email-form {
   padding: 30px;
   background: rgba(255, 255, 255, 0.08);
